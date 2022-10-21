@@ -1,0 +1,69 @@
+{
+    "settingsSync.ignoredSettings": [
+        "editor.fontFamily",
+        "editor.fontSize",
+        "editor.fontWeight",
+        "editor.letterSpacing",
+        "editor.lineHeight"
+    ],
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 13,
+    "editor.fontWeight": "normal",
+    "editor.lineHeight": 19,
+
+    "workbench.iconTheme": "vscode-icons",
+    "python.defaultInterpreterPath": "C:\\Users\\Norbert.batiuk\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "editor.minimap.enabled": false,
+    // "editor.rulers": [120]
+
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.exclude": {
+        "**/.git": false
+    },
+    
+    "editor.semanticHighlighting.enabled": true,
+
+    "kite.showWelcomeNotificationOnStartup": false,
+    "[html]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    
+    // Extension: todo-tree
+    "todo-tree.highlights.defaultHighlight": {
+        "icon": "alert",
+        "type": "text",
+        // "foreground": "red",
+        // "background": "white",
+        // "opacity": 50,
+        // "iconColour": "blue"
+    },
+    "todo-tree.highlights.customHighlight": {
+        "TODO": {
+            "icon": "check",
+            "type": "line",
+            "foreground": "white",
+            "fontWeight": "bold",
+            "fontStyle": "italic",
+            "gutterIcon": true
+        },
+        "FIXME": {
+            "foreground": "yellow",
+            "iconColour": "yellow",
+            "fontWeight": "bold",
+            "fontStyle": "italic",
+            "gutterIcon": true
+        },
+    },
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.markdownlint": true
+    },
+
+    "workbench.colorTheme": "PyCharm Darcula Theme with Dark GUI",
+    "editor.mouseWheelZoom": false,
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
+}
