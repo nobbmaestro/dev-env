@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "7d052773101276ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "6318518f04835aa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5753b6fe53f2876e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85a8cf57336852d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2816fc7e91ad424f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81a1389faa7d89d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c088eb397a8e58f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "681d18eeaccb3bca",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea636df1ee5cd87a",
+    "type": "split",
+    "children": [
+      {
+        "id": "368581907b1ce571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "203cdae489cef422",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e40df2a0856af978",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60909196e702e7c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0a735a13d066083",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "5753b6fe53f2876e",
+  "lastOpenFiles": [
+    "2022-10-16.md",
+    "theory/data-structures-and-algorithms/data-structures.md"
+  ]
+}
